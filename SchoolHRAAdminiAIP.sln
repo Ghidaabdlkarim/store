@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolHRAAdminiAIP", "SchoolHRAAdminiAIP\SchoolHRAAdminiAIP.csproj", "{B5683828-076B-4E67-B5D0-DA6E84AA86FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{357E0764-4309-4441-9D8D-094D549F98E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5683828-076B-4E67-B5D0-DA6E84AA86FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5683828-076B-4E67-B5D0-DA6E84AA86FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5683828-076B-4E67-B5D0-DA6E84AA86FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5683828-076B-4E67-B5D0-DA6E84AA86FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357E0764-4309-4441-9D8D-094D549F98E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357E0764-4309-4441-9D8D-094D549F98E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357E0764-4309-4441-9D8D-094D549F98E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357E0764-4309-4441-9D8D-094D549F98E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
